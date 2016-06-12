@@ -1,0 +1,24 @@
+body {
+    background: url(img/photo.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div {
+	max-width: 500px;
+	margin: auto;
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-size: 25;
+	color: white;
+}
+
+div a {
+	color: white;
+}
+
+.larger {
+	font-size: 35;
+}
