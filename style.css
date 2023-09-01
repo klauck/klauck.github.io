@@ -1,24 +1,33 @@
-body {
-    background: url(img/photo.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+h1 {
+    font-weight: lighter;
 }
 
-div {
-	max-width: 500px;
-	margin: auto;
+h2 {
+    font-weight: lighter;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+#content {
+	max-width: 1000px;
+    margin: auto;
 	font-family: sans-serif;
 	font-weight: lighter;
-	font-size: 25;
-	color: white;
+	color: black;
 }
 
-div a {
-	color: white;
+#personal {
+    float: left;
+    margin: 20px;
+    text-align: center;
 }
 
-.larger {
-	font-size: 35;
+#my_text {
+    max-width: 550px;
+    float: left;
+    margin: 20px;
+    line-height: 1.6;
+    font-size: 17px;
 }
