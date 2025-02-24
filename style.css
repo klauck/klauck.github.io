@@ -10,6 +10,14 @@ h3 {
     font-weight: lighter;
 }
 
+a {
+    color: #cc0052;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 #content {
 	max-width: 1000px;
     margin: auto;
